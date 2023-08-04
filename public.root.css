@@ -12,3 +12,8 @@
     --active-green-color: #D2091E;
 
   }
+
+.header__menu > .menu,
+.header__menu > .select.select--with-icon {
+	display: none;
+}
